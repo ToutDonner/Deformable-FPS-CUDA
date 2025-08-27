@@ -1,6 +1,6 @@
 # How to install 
-1. git clone
-2. cd
+1. git clone git@github.com:ToutDonner/Deformable-FPS-CUDA.git
+2. cd Deformable-FPS-CUDA
 3. pip install -e .
 
 # code example
