@@ -1,5 +1,5 @@
 # What is this
-An implemention of further points sampling (FPS), utlize parallel computing with CUDA. Can concat different length pointcloud to one batch.
+An implemention of Furtherest Points Sampling (FPS), utlize parallel computing with CUDA. Can concat different length pointcloud to one batch.
 
 # How to install 
 1. git clone git@github.com:ToutDonner/Deformable-FPS-CUDA.git
